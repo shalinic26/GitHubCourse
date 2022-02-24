@@ -6,6 +6,7 @@ public class CherryPage {
 		// TODO Auto-generated method stub
 		
 		String name = "shalini";
+		int sal = 200000;
 
 	}
 
