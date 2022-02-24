@@ -8,6 +8,9 @@ public class CartPage {
 		System.out.println("cart page");
 		
 		System.out.println("cart page feature");
+		
+		System.out.println("cart Dev 2");
+		
 	}
 
 }
