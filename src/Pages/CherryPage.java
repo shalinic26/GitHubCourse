@@ -9,5 +9,10 @@ public class CherryPage {
 		int sal = 200000;
 
 	}
+	
+	public void test()
+	{
+		System.out.println("test feature");
+	}
 
 }
