@@ -19,6 +19,7 @@ public class ClassicPage {
 
     int age = 25;
     
+    System.out.println("Hi cart");
 	}
 
 }
